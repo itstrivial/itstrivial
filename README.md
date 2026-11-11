@@ -1,5 +1,5 @@
 Growth-stage tech consultant.
 
-Loves systems, math and shareholder value.
+Loves distributed systems, machine learning and shareholder value.
 
 Plays bad tennis.
